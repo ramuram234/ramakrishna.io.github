@@ -1,0 +1,100 @@
+body{
+    background-image:linear-gradient(to bottom, rgba(189, 180, 180, 0.6) 100%,rgba(255,255,255,0.9) 100%), url("../images/50-engineering-dna.jpg");
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  height: 100%;
+  width: 100%;
+   
+}
+/*-----------------banner starts---------*/
+.banimg1 img{
+    width:100%;
+    height:100%;
+    }
+.con{
+    background-color: lightgray;
+    margin-top: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.banimg{
+    border-radius: 50px;
+    
+
+
+}
+/*-----------------banner ends---------*/
+.container-fluid-xl{
+    background-color: lightgray;
+}
+h2 {
+	color: #333;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Roboto", sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin: 30px 0 60px;
+}
+
+.col-center {
+	margin: 0 auto;
+	float: none !important;
+}
+
+.carslide {
+	padding: 0 70px;
+}
+.carslide .caroi {
+	color: #999;
+	font-size: 14px;
+	text-align: center;
+	overflow: hidden;
+	min-height: 290px;
+}
+.carslide .caroi .img-box {
+	width: 135px;
+	height: 135px;
+	margin: 0 auto;
+	padding: 5px;
+	border: 3px solid rgb(66, 65, 65);
+	border-radius: 50%;
+}
+.carslide .img-box img {
+	width: 100%;
+	height: 100%;
+	display: block;
+	border-radius: 50%;
+}
+.carslide .testimonial {
+	padding: 30px 0 10px;
+}
+.carslide .overview {	
+	font-style: italic;
+}
+.carslide .overview b {
+	text-transform: uppercase;
+	color: #7AA641;
+}
+.caro-1, .caro-1 {
+	width: 40px;
+	height: 40px;
+	margin-top: 50px;
+	top: 50%;
+	background: none;
+}
+.caro-1 i, .caro-1 i {
+	font-size: 68px;
+	line-height: 42px;
+	position: absolute;
+	display: inline-block;
+	color: rgba(0, 0, 0, 0.8);
+	text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
+}
+.caroin li{
+    margin-bottom: 10px;
+
+}
+
